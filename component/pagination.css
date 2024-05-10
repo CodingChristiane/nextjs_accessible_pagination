@@ -1,11 +1,4 @@
-.pagination {
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-    margin: 2rem;
-  }
-  
-  .page-nav {
+.page-nav {
     display: flex;
     gap: 0.5rem;
   }

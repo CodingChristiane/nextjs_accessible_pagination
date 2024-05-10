@@ -46,7 +46,7 @@ export default function Catalogue() {
 
 }
 
-export const createCatalogue = (number: number) => {
+const createCatalogue = (number: number) => {
     const catalogue = [];
     for (let i = 1; i <= number; i++) {
         catalogue.push({
